@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T06:33:34.204Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="cw-L60IoZnOJJUPWwtPd" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-06T06:33:55.731Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.6.0" etag="AGVGwT_dDfkyHv52BRHp" type="github">
   <diagram id="4B8UE-5hh-jaMDuOYep9" name="Page-1">
     <mxGraphModel dx="2070" dy="1105" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,8 +46,8 @@
         <mxCell id="hkjH74M89Xu--A2cxbo5-12" value="&lt;font color=&quot;#000000&quot;&gt;key 1&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="430" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hkjH74M89Xu--A2cxbo5-17" value="ORIGINAL SERVER STATE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="385" y="130" width="60" height="30" as="geometry" />
+        <mxCell id="hkjH74M89Xu--A2cxbo5-17" value="&lt;b&gt;ORIGINAL SERVER STATE&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="110" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hkjH74M89Xu--A2cxbo5-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="210" y="830" width="410" height="410" as="geometry" />
@@ -91,8 +91,8 @@
         <mxCell id="hkjH74M89Xu--A2cxbo5-35" value="&lt;font color=&quot;#000000&quot;&gt;key 1&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="590" y="1040" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hkjH74M89Xu--A2cxbo5-36" value="ADD A SERVER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="385" y="740" width="60" height="30" as="geometry" />
+        <mxCell id="hkjH74M89Xu--A2cxbo5-36" value="&lt;b&gt;ADD A SERVER&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="265" y="730" width="265" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hkjH74M89Xu--A2cxbo5-37" value="&lt;h1 style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#0000ff&quot;&gt;server 4&lt;/font&gt;&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="480" y="840" width="130" height="80" as="geometry" />
@@ -145,8 +145,8 @@
         <mxCell id="hkjH74M89Xu--A2cxbo5-53" value="&lt;font color=&quot;#000000&quot;&gt;key 1&lt;/font&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="1670" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hkjH74M89Xu--A2cxbo5-54" value="REMOVE A SERVER" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000CC;" vertex="1" parent="1">
-          <mxGeometry x="405" y="1370" width="60" height="30" as="geometry" />
+        <mxCell id="hkjH74M89Xu--A2cxbo5-54" value="&lt;b&gt;REMOVE A SERVER&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1360" width="265" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hkjH74M89Xu--A2cxbo5-55" value="&lt;h1&gt;here server 1 was removed, so key 1 had to move to server 2, but no other keys had to move&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="790" y="1640" width="200" height="280" as="geometry" />
